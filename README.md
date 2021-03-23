@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Atul Gupta</h1>
-<h3 align="center">A self-taught programmer and born at very little age😜</h3>
+<h1 align="center">Hi, I'm Atul 👋</h1>
+<h3 align="center">A passionate FrontEnd Software Developer 🚀 having an experience of building Web and Mobile applications with Angular / Ionic / Nodejs / JavaScript and some other cool libraries and frameworks.</h3>
 
 ![GitHub followers](https://img.shields.io/github/followers/atul4a2l?logo=GitHub&style=for-the-badge)
 
