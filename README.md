@@ -8,13 +8,6 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<ul>
-    <li>JavaScript</li>
-    <li>Python</li>
-    <li>Ruby</li>
-    <li>Go</li>
-    <li>Node.js</li>
-</ul>
 
 <!---
 atul4a2l/atul4a2l is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
